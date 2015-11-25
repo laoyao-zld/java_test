@@ -1,2 +1,1 @@
-this is test rep
-Ë¯¾õ£¬²âÊÔ 
+java test!!!
